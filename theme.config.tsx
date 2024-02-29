@@ -11,15 +11,15 @@ const config: DocsThemeConfig = {
 		link: "https://github.com/tohhongxiang123/algorithm-notes.git",
 	},
 	docsRepositoryBase:
-		"https://github.com/tohhongxiang123/algorithm-notes.git",
-	editLink: {
-		component: null,
-	},
+		"https://github.com/tohhongxiang123/algorithm-notes/blob/main",
 	feedback: {
 		content: null,
 	},
 	footer: {
 		text: "Algorithm Notes",
+	},
+	toc: {
+		backToTop: true,
 	},
 };
 
