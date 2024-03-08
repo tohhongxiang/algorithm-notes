@@ -1,5 +1,19 @@
 {
-	"index": "Home",
-	"leetcode": "Leetcode",
-	"templates": "Templates"
+	"index": {
+		"title": "Home",
+		"display": "hidden",
+		"theme": {
+			"breadcrumb": false,
+			"sidebar": false,
+			"toc": false
+		}
+	},
+	"leetcode": {
+		"title": "Leetcode",
+		"type": "page"
+	},
+	"templates": {
+		"title": "Templates",
+		"type": "page"
+	}
 }
